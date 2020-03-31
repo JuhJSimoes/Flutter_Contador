@@ -1,6 +1,6 @@
-# Projeto Componentes Flutter
+# Projeto Flutter Contador
 
-Novo projeito de Flutter com componentes.
+Novo projeito de Flutter iniciante - Contador.
 
 ## Getting Started
 
